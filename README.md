@@ -119,7 +119,6 @@ Soy Licenciado en Comunicación Publicitaria con una sólida trayectoria en dise
 
 ## 🌐 Idiomas
 
-[Top Languages]
 - **Inglés**
 - **Francés**
 - **Portugués**
