@@ -138,10 +138,10 @@ Soy Licenciado en Comunicación Publicitaria con una sólida trayectoria en dise
 
 ## 🔗 Links
 
-- [Portafolio de Diseños](#)
-- [Portafolio Fotográfico](#)
-- [LinkedIn](https://www.linkedin.com/in/franciscoeliasduran) *(Reemplaza con tu enlace real)*
-- [GitHub](https://github.com/franciscoeliasduran) *(Reemplaza con tu enlace real)*
+- [Portafolio de Diseños](https://www.behance.net/franciscoeduran)
+- [Portafolio Fotográfico](https://500px.com/p/franciscodurand?view=photos)
+- [LinkedIn](https://www.linkedin.com/in/francisco-elías-durán-d-66b133a9/)
+- [GitHub](https://github.com/mysticicorporis)
 
 ---
 
