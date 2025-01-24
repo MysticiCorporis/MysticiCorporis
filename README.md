@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Francisco Elías Duran Domínguez
 
-![Banner](https://via.placeholder.com/1200x300?text=Francisco+Elías+Duran+Dom%C3%ADnguez)
+<!-- ![Banner](https://via.placeholder.com/1200x300?text=Francisco+Elías+Duran+Dom%C3%ADnguez) -->
 
 📍 Santo Domingo, República Dominicana  
 📞 +1 (829) 915-7828  
@@ -119,6 +119,7 @@ Soy Licenciado en Comunicación Publicitaria con una sólida trayectoria en dise
 
 ## 🌐 Idiomas
 
+[Top Languages]
 - **Inglés**
 - **Francés**
 - **Portugués**
